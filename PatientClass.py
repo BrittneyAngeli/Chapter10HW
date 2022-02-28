@@ -1,4 +1,5 @@
-
+# The Patient class has the following attributes
+# ID, name, address, phone, veteran_status (True or False)
 
 class Patient: 
 

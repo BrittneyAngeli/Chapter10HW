@@ -1,4 +1,5 @@
-
+# The Procedure class represents a medical procedure
+# that has been performed on a patient
 
 class Procedure: 
 
